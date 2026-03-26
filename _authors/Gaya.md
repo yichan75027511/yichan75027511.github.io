@@ -1,9 +1,9 @@
 ---
-title: Dave - web dev
-name: Dave Mc Dave
+title: Gaya - web dev
+name: Gaya
 position: Web Developer
-description: Dave is a web developer
-avatar: /img/dave.png
+description: Gaya is a web developer
+avatar: /img/Gaya.jpg
 facebook: https://www.facebook.com/
 twitter: https://www.twitter.com/
 github: https://www.github.com/
